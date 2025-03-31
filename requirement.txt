@@ -1,0 +1,10 @@
+trained .h5 file save in the project folder
+
+create a file main.py in the project folder
+
+open a terminal 
+#install streamlit
+-- pip install streamlit
+
+#to run the streamlit
+-- python -m streamlit run main.py
